@@ -1,5 +1,8 @@
 /index.html
 /css/style.css
+
+
+
 /img/   (your images)
 
 
