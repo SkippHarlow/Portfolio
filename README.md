@@ -26,7 +26,7 @@
     </section>
     <section>
       <h2>Contact</h2>
-      <p>email@domain.com · <a href="https://www.linkedin.com/">LinkedIn</a></p>
+      <p>www.linkedin.com/in/jacob-hibbard-05729027a · <a href="https://www.linkedin.com/">LinkedIn</a></p>
     </section>
   </main>
 </body>
