@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <header><h1>Skipp — Graphic Designer</h1></header>
+  <header><h1>Jacob Hibbard(Skipp Harlow) — Graphic Designer</h1></header>
   <main>
     <section>
       <h2>Selected Work</h2>
@@ -26,7 +26,7 @@
     </section>
     <section>
       <h2>Contact</h2>
-      <p>www.linkedin.com/in/jacob-hibbard-05729027a · <a href="https://www.linkedin.com/">LinkedIn</a></p>
+      <p>www.linkedin.com/in/jacob-hibbard-05729027 <a href="https://www.linkedin.com/">LinkedIn</a></p>
     </section>
   </main>
 </body>
